@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/predict", "dest": "https://genderguessseer.vercel.app/predict" }
+  ]
+}
